@@ -1,7 +1,5 @@
 # 🧠 JavaScript + Logic Training
 
-> A progressive JavaScript and problem-solving training project focused on algorithms, logic, data structures, and modern JavaScript.
-
 ---
 
 ## 🎯 Purpose
@@ -20,10 +18,6 @@ The goal is not simply to write code that works, but to learn how to:
 - Debug reasoning and code
 - Optimize solutions
 - Recognize algorithmic techniques
-
-The main objective is to reach the point where, when facing a new problem, the first thought is:
-
-> **"I know where to start."**
 
 ---
 
